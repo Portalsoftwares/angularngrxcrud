@@ -1,5 +1,5 @@
 # Angular 16 ngrx crud
-
+https://www.youtube.com/watch?v=jrp1djz0H6E
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
 
 ## Development server
